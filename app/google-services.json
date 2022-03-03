@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609270984774",
+    "firebase_url": "https://ebiro-55906.firebaseio.com",
+    "project_id": "ebiro-55906",
+    "storage_bucket": "ebiro-55906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609270984774:android:cd9de4af1762ee904fda47",
+        "android_client_info": {
+          "package_name": "com.example.e_biro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609270984774-vrmfprirsed71o2b56j21lroukn7551d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_biro",
+            "certificate_hash": "5b1f81ab715b28338ddb8458c024885d43936116"
+          }
+        },
+        {
+          "client_id": "609270984774-h4viqkplq9ql1hq18l50aun0398n2335.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIvlPQbnoQorFbm27OUHk7J8xdi5sKJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609270984774-h4viqkplq9ql1hq18l50aun0398n2335.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

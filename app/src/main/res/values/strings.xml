@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">e-Biro</string>
+    <string name="context_choice">When Reading Taken</string>
+    <string-array name="context_names">
+        <item> Izaberite filijalu... </item>
+        <item>Beograd</item>
+        <item>Bor</item>
+        <item>Čačak</item>
+        <item>Jagodina</item>
+        <item>Kikinda</item>
+        <item>Kosovska Mitrovica</item>
+        <item>Kragujevac</item>
+        <item>Kraljevo</item>
+        <item>Kruševac</item>
+        <item>Leskovac</item>
+        <item>Loznica</item>
+        <item>Niš</item>
+        <item>Novi Sad</item>
+        <item>Novi Pazar</item>
+        <item>Pančevo</item>
+        <item>Pirot</item>
+        <item>Požarevac</item>
+        <item>Prijepolje</item>
+        <item>Prokuplje</item>
+        <item>Smederevo</item>
+        <item>Sombor</item>
+        <item>Sremska Mitrovica</item>
+        <item>Subotica</item>
+        <item>Šabac</item>
+        <item>Užice</item>
+        <item>Valjevo</item>
+        <item>Vranje</item>
+        <item>Vršac</item>
+        <item>Zaječar</item>
+        <item>Zrenjanin</item>
+
+
+    </string-array>
+    <string name="filijale_izbor">When Reading Taken</string>
+    <string-array name="filijale">
+        <item> Izaberite filijalu... </item>
+        <item>Beograd</item>
+        <item>Bor</item>
+        <item>Čačak</item>
+        <item>Jagodina</item>
+        <item>Kikinda</item>
+        <item>Kosovska Mitrovica</item>
+        <item>Kragujevac</item>
+        <item>Kraljevo</item>
+        <item>Kruševac</item>
+        <item>Leskovac</item>
+        <item>Loznica</item>
+        <item>Niš</item>
+        <item>Novi Sad</item>
+        <item>Novi Pazar</item>
+        <item>Pančevo</item>
+        <item>Pirot</item>
+        <item>Požarevac</item>
+        <item>Prijepolje</item>
+        <item>Prokuplje</item>
+        <item>Smederevo</item>
+        <item>Sombor</item>
+        <item>Sremska Mitrovica</item>
+        <item>Subotica</item>
+        <item>Šabac</item>
+        <item>Užice</item>
+        <item>Valjevo</item>
+        <item>Vranje</item>
+        <item>Vršac</item>
+        <item>Zaječar</item>
+        <item>Zrenjanin</item>
+
+
+    </string-array>
+</resources>
